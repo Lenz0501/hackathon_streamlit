@@ -10,7 +10,7 @@ st.session_state['loc_num_'] = 0
 st.title('歡迎來到高雄～')
 
 st.markdown("### [Gen AI 生成式Schedule] ")
-st.image('D:\code\streamlit\_4274d1f0-5dc7-4f62-8373-81ee2bba23f3.jpg',use_column_width=True)
+st.image(r'D:\code\streamlit\app_test\_4274d1f0-5dc7-4f62-8373-81ee2bba23f3.jpg', use_column_width=True)
 _,_,_,_,_,_,schedule_button=st.columns(7)
 
 with schedule_button:
