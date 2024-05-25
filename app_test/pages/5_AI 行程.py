@@ -156,8 +156,6 @@ if route_flag:
             st.rerun()
 
 
-travel_df=pd.read_csv('D:\code\streamlit\data.csv')
-#travel_df
 
 route_l=st.session_state.selection_
 
