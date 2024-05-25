@@ -10,7 +10,7 @@ st.session_state['loc_num_'] = 0
 st.title('歡迎來到高雄～')
 
 st.markdown("### [Gen AI 生成式Schedule] ")
-st.image(r'D:\code\streamlit\app_test\_4274d1f0-5dc7-4f62-8373-81ee2bba23f3.jpg', use_column_width=True)
+st.image(r'_4274d1f0-5dc7-4f62-8373-81ee2bba23f3.jpg', use_column_width=True)
 _,_,_,_,_,_,schedule_button=st.columns(7)
 
 with schedule_button:
@@ -22,7 +22,7 @@ with A:
     st.markdown("""
     ## 演唱會:
     """)
-    st.image('D:\code\streamlit\pexels-vishnurnair-1105666.jpg',use_column_width=True)
+    st.image('pexels-vishnurnair-1105666.jpg',use_column_width=True)
     _,_,_,button_1=st.columns(4)
 
     with button_1:
@@ -31,7 +31,7 @@ with B:
     st.markdown("""
     ## 藝術展覽:
     """)
-    st.image('D:\code\streamlit\pexels-prismattco-2372978.jpg')
+    st.image('pexels-prismattco-2372978.jpg')
     _,_,_,button_1=st.columns(4)
 
     with button_1:
@@ -40,7 +40,7 @@ with C:
     st.markdown("""
     ## 運動賽事:
     """)
-    st.image('D:\code\streamlit\pexels-pixabay-248547.jpg')
+    st.image('pexels-pixabay-248547.jpg')
     _,_,_,button_1=st.columns(4)
 
     with button_1:
@@ -49,7 +49,7 @@ with D:
     st.markdown("""
     ## 景點:
     """)
-    st.image('D:\code\streamlit\pexels-souvenirpixels-1598073.jpg')
+    st.image('pexels-souvenirpixels-1598073.jpg')
     _,_,_,button_1=st.columns(4)
 
     with button_1:
