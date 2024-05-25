@@ -66,7 +66,7 @@ def button_disabled(x,s):
 
 #choose----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-st.image('D:\code\streamlit\pic_1.jpeg',use_column_width=True)
+st.image('_4274d1f0-5dc7-4f62-8373-81ee2bba23f3.jpg',use_column_width=True)
 
 st.title('Result Display')
 
