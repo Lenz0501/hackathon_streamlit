@@ -9,11 +9,11 @@ with left:
     st.markdown('## 熱賣中')
     left_1,left_2=st.columns(2)
     with left_1:
-        st.image('D:\code\streamlit\A.jpg',use_column_width='always')
+        st.image('A.jpg',use_column_width='always')
         st.write('')
-        st.image('D:\code\streamlit\B.jpg',use_column_width='always')
+        st.image('B.jpg',use_column_width='always')
         st.write('')
-        st.image('D:\code\streamlit\C.jpg',use_column_width='always')
+        st.image('C.jpg',use_column_width='always')
     with left_2:
         st.markdown("""
             ### ONE OK ROCK高雄演唱會2024｜ONE OK ROCK 2024 PREMONITION WORLD TOUR IN KAOHSIUNG｜高雄世運主場館  
@@ -68,7 +68,7 @@ with right:
     st.markdown('## 已售完:')
     right_1,right_2=st.columns(2)
     with right_1:
-        st.image('D:\code\streamlit\A.jpg',use_column_width='always')
+        st.image('A.jpg',use_column_width='always')
     with right_2:
         st.markdown("""
             ### ONE OK ROCK高雄演唱會2024｜ONE OK ROCK 2024 PREMONITION WORLD TOUR IN KAOHSIUNG｜高雄世運主場館  
