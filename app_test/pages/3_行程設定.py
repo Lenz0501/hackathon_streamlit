@@ -131,7 +131,7 @@ with other:
     r_display,l_display = st.columns(2)
     right_1,right_2=st.columns(2)
     with right_1:
-        st.image('D:\code\streamlit\A.jpg',use_column_width='always')
+        st.image('A.jpg',use_column_width='always')
     with right_2:
         st.markdown("""
             ### ONE OK ROCK高雄演唱會2024｜ONE OK ROCK 2024 PREMONITION WORLD TOUR IN KAOHSIUNG｜高雄世運主場館  
